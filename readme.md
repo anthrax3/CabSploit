@@ -1,6 +1,6 @@
 #CabSploit
 
-Write to windows ProgramData ADS without admin privileges by abusing windows built-in tools.<br><br>
+Write to windows ProgramData ADS without admin privileges by abusing windows built-in tools exploit/bug.<br><br>
 
 Usage:
 <br><br>
