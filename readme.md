@@ -1,4 +1,4 @@
-#CabSploit By Gerrya8 (formerly N3tGh0st)
+#CabSploit By AstroX
 
 Write to windows ProgramData ADS without admin privileges by abusing windows built-in tools exploit/bug.<br><br>
 
